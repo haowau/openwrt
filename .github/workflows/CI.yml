@@ -8,7 +8,7 @@ on:
     
 env:
   
-  CONFIG_FILE: openwrt/.config  # 指定配置文件路径
+  CONFIG_FILE: config/.config  # 指定配置文件路径
   TZ: Asia/Shanghai
 
 jobs:
